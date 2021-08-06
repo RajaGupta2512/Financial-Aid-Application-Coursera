@@ -7,5 +7,8 @@ Ans: I’m a student from India and want to learn Data Science. I think it will 
 2. How will taking this course help you achieve your career goals? (150 words minimum required)
 Ans: My main career goal is to learn every day. I really want to learn and to progress in my career. Programming requires constant learning and improvement. Taking this course will help me to learn and study Data Science and also to implement it. It can help me advance in my knowledge. This course will help me in defining Data Science, understanding how Python could potentially impact our business and industry, to write a thought leadership piece regarding use cases and industry potential of Data Science, explain Data Science to clients, friends, joining a community of economists, business leaders, entrepreneurs, and technologists that are shaping this technology as we speak. Identifying which aspects of Data Science seem most important and relevant to us, Walking away with a strong foundation in where Data Science is going, what it does, and how to prepare for it. The Data Science course will help me achieve it to learn. Courses on Coursera helped me to greatly increase my programming knowledge in the past.
 
+Would you consider using a low-interest loan to pay for your courses?
+Selected: NO
+
 3. If you answered no, please help us understand why.
-Ans: I don’t have enough money to invest in my education, I can invest only my time now.
+4. Ans: I don’t have enough money to invest in my education, I can invest only my time now.
