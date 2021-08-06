@@ -11,4 +11,4 @@ Would you consider using a low-interest loan to pay for your courses?
 Selected: NO
 
 3. If you answered no, please help us understand why.
-4. Ans: I don’t have enough money to invest in my education, I can invest only my time now.
+Ans: I don’t have enough money to invest in my education, I can invest only my time now.
